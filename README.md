@@ -12,7 +12,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" alt="LinkedIn"/>](https://www.linkedin.com/in/jonathan-dekoster-376523181/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" alt="LinkedIn"/>]([https://www.linkedin.com/in/jonathan-dekoster-37652a181]/)
 
 
 
