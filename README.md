@@ -14,7 +14,8 @@
 
 <a
 href="https://www.linkedin.com/in/jonathan-dekoster-37652a181/" target="_blank">
-<img align="center" alt="Jonathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-dekoster-376523181/)
+</a>
 
 
 
