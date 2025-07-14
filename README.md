@@ -12,7 +12,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Jonathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a
+href="https://www.linkedin.com/in/jonathan-dekoster-37652a181/" target="_blank">
+<img align="center" alt="Jonathan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]</a>
 
 
-[linkedin]: ["https://www.linkedin.com/in/jonathan-dekoster-37652a181/"]
+
