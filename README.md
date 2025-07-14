@@ -12,10 +12,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-<a
-href="https://www.linkedin.com/in/jonathan-dekoster-37652a181/" target="_blank">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-dekoster-376523181/)
-</a>
 
 
 
