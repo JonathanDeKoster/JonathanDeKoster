@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Windows Administration</b>
-  - [KevTech 2025 - Help Desk and Active Directory]
+  - [KevTech 2025 - Help Desk and Active Directory](https://github.com/JonathanDeKoster/KevTech-2025-Help-Desk-and-Active-Directory)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JonathanDeKoster/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JonathanDeKoster/post-install-config)
