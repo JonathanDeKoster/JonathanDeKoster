@@ -5,7 +5,7 @@
 - <b>Windows Administration</b>
   - [KevTech 2025 - Help Desk and Active Directory](https://github.com/JonathanDeKoster/KevTech-2025-Help-Desk-and-Active-Directory)
 - <b>Microsoft 365</b>
-  - 
+  - [Microsoft 365 Admin Lab - Luminous Solutions Inc.](https://github.com/JonathanDeKoster/microsoft-365-admin-lab)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/JonathanDeKoster/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/JonathanDeKoster/post-install-config)
