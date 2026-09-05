@@ -5,6 +5,9 @@
 - <b>Windows Administration</b>
   - [KevTech 2025 - Help Desk and Active Directory](https://github.com/JonathanDeKoster/KevTech-2025-Help-Desk-and-Active-Directory)
   - [Active Directory Administration Lab - Azure](https://github.com/JonathanDeKoster/Active-Directory-Administration-Lab-Azure)
+ 
+- <b>Linux</b>
+  - [Linux Basics Part 1](https://github.com/JonathanDeKoster/)
 - <b>Microsoft 365</b>
   - [Microsoft 365 Admin Lab - Luminous Solutions Inc.](https://github.com/JonathanDeKoster/microsoft-365-admin-lab)
 - <b>Microsoft Azure</b>
