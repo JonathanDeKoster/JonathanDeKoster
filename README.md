@@ -7,7 +7,7 @@
   - [Active Directory Administration Lab - Azure](https://github.com/JonathanDeKoster/Active-Directory-Administration-Lab-Azure)
  
 - <b>Linux</b>
-  - [Linux Basics Part 1](https://github.com/JonathanDeKoster/linux-Basics-Part-1)
+  - [Linux Basics - Part 1](https://github.com/JonathanDeKoster/linux-Basics-Part-1)
 - <b>Cisco Networking</b>
   - [Cisco Switching and Network Troubleshooting Lab](https://github.com/JonathanDeKoster/cisco-switching-network-torubleshooting-lab)
 - <b>Microsoft 365</b>
